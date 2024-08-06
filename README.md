@@ -107,4 +107,3 @@ The platform has been tested to ensure the integrity and security of transaction
 ## Conclusion
 This project aims to empower farmers, enhance supply chain efficiency, and offer consumers fresh produce with verified provenance. By integrating blockchain technology with e-commerce, it envisions a more equitable and transparent agricultural marketplace. 🌱💫
 
-This project aims to empower farmers, enhance supply chain efficiency, and offer consumers fresh produce with verified provenance. By integrating blockchain technology with e-commerce, it envisions a more equitable and transparent agricultural marketplace. 🌱💫
